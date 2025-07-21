@@ -6,7 +6,6 @@
   "homepage": "https://anshkumar01.github.io/My-Portfolio",
   "scripts": {
     "dev": "vite",
-      "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
